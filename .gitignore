@@ -1,0 +1,5 @@
+#npm cache
+/node_modules
+
+#gitbook output dir
+/_book
